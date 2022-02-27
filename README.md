@@ -1,1 +1,1 @@
-# codility code
+# Codility code

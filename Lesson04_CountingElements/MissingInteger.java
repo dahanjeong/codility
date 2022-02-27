@@ -5,7 +5,7 @@
 // count 배열을 돌았는데도 ans가 갱신되지 않으면 A의 가장 마지막 양수 + 1
 // A가 음수로만 이루어진 배열이면 1 return
 
-package Lesson04;
+package Lesson04_CountingElements;
 
 import java.util.*;
 

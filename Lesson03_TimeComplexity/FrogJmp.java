@@ -1,6 +1,6 @@
 // X 위치에서 D만큼 점프했을 때 Y 위치 이상까지 도달하는데 걸리는 횟수
 
-package Lesson03;
+package Lesson03_TimeComplexity;
 
 class Solution {
     public int solution(int X, int Y, int D) {

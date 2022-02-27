@@ -3,7 +3,7 @@
 // 한 칸씩 전진하면서 end에서는 현재 값을 빼며 갱신하고,
 // start는 더해주면서 갱신하고 비교.
 
-package Lesson03;
+package Lesson03_TimeComplexity;
 
 class Solution {
     public int solution(int[] A) {

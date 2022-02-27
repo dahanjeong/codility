@@ -3,7 +3,7 @@
 // Set 자료구조를 이용해서 1~X까지의 나뭇잎을 저장하고,
 // Set의 크기가 X가 되면 모든 나뭇잎이 모이기 때문에 그 시점의 Array Index를 가져오면 됨.
 
-package Lesson04;
+package Lesson04_CountingElements;
 
 import java.util.*;
 

@@ -3,7 +3,7 @@
 // Set에 있으면 => pair로 Set의 값 삭제
 // Set에 없으면 => Set의 추가
 
-package Lesson02;
+package Lesson02_Arrays;
 
 import java.util.*;
 

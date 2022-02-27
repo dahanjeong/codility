@@ -5,7 +5,7 @@
 // N+1이면 현재 가장 큰 값인 update를 max에 넣어준다.
 // 제일 마지막에 max보다 작은 값들은 모두 max로 갱신하면 시간 복잡도는 O(N+M)
 
-package Lesson04;
+package Lesson04_CountingElements;
 
 class Solution {
     public int[] solution(int N, int[] A) {

@@ -2,7 +2,7 @@
 // A를 정렬한 뒤, A[가장 마지막]이 배열 A의 크기보다 크면 불가
 // A[i]가 i+1이 아니면 불가
 
-package Lesson04;
+package Lesson04_CountingElements;
 
 import java.util.*;
 

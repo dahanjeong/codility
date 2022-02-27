@@ -2,7 +2,7 @@
 // Array를 사전에 오름차순 정렬하고,
 // index + 1 값과 다른 값 또는 -1을 유지하면 제일 마지막 숫자
 
-package Lesson03;
+package Lesson03_TimeComplexity;
 
 import java.util.*;
 

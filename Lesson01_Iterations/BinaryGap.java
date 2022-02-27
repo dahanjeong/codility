@@ -1,7 +1,7 @@
 // Integer N을 입력 받아 가장 긴 1 ~ 1의 가장 긴 0을 찾는 문제.
 // Integer.toBinaryString()이 중요.
 
-package Lesson01;
+package Lesson01_Iterations;
 
 class Solution {
     public int solution(int N) {
